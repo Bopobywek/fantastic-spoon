@@ -1,0 +1,5 @@
+python-telegram-bot==20.5
+openai==1.8.0
+PyMuPDF==1.22.3
+requests==2.31.0
+beautifulsoup4==4.13.4

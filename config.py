@@ -1,0 +1,2 @@
+TELEGRAM_BOT_TOKEN = "token"
+OPENAI_API_KEY = "token"
